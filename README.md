@@ -1,2 +1,2 @@
 # DATA_ANALYST_IT_ACADEMY
-Sprint_Bootcamp_IT_ACADEMY
+Bootcamp_IT_ACADEMY_Record_Sprint's
