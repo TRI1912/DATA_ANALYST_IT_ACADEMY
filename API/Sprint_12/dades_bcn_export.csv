@@ -1,0 +1,174 @@
+Codi_Districte,Nom_Districte,Metres,Total_Rebuts,Categoria_Fiscal_Carrer,_id,Total_Quota
+1,Ciutat Vella,Entre 10 i 20 m2,22,A,1,41109.22
+1,Ciutat Vella,Entre 21 i 50 m2,14,A,2,52596.09
+1,Ciutat Vella,Menys de 10 m2,..,A,3,18650.53
+1,Ciutat Vella,Més de 50 m2,..,A,4,8896.07
+1,Ciutat Vella,Entre 10 i 20 m2,28,B,5,33570.87
+1,Ciutat Vella,Entre 21 i 50 m2,13,B,6,25502.08
+1,Ciutat Vella,Menys de 10 m2,..,B,7,1872.86
+1,Ciutat Vella,Més de 50 m2,..,B,8,4635.32
+1,Ciutat Vella,Entre 10 i 20 m2,84,C,9,58015.53
+1,Ciutat Vella,Entre 21 i 50 m2,40,C,10,51467.81
+1,Ciutat Vella,Menys de 10 m2,31,C,11,13712.79
+1,Ciutat Vella,Més de 50 m2,..,C,12,6227.26
+1,Ciutat Vella,Entre 10 i 20 m2,..,D,13,2106.96
+1,Ciutat Vella,Entre 21 i 50 m2,..,D,14,2692.24
+1,Ciutat Vella,Menys de 10 m2,..,D,15,1053.48
+1,Ciutat Vella,Entre 10 i 20 m2,18,E,16,7463.29
+1,Ciutat Vella,Entre 21 i 50 m2,8,E,17,5868.29
+1,Ciutat Vella,Menys de 10 m2,..,E,18,148.35
+2,Eixample,Entre 10 i 20 m2,193,A,19,353616.19
+2,Eixample,Entre 21 i 50 m2,65,A,20,215940.49
+2,Eixample,Menys de 10 m2,30,A,21,37621.35
+2,Eixample,Més de 50 m2,..,A,22,18286.37
+2,Eixample,Entre 10 i 20 m2,699,B,23,776543.86
+2,Eixample,Entre 21 i 50 m2,222,B,24,464359.34
+2,Eixample,Menys de 10 m2,83,B,25,59173.56
+2,Eixample,Més de 50 m2,8,B,26,42982.1
+2,Eixample,Entre 10 i 20 m2,486,C,27,320664.25
+2,Eixample,Entre 21 i 50 m2,153,C,28,192436.46
+2,Eixample,Menys de 10 m2,62,C,29,27722.7
+2,Eixample,Més de 50 m2,8,C,30,20939.59
+3,Sants-Montjuïc,Entre 10 i 20 m2,..,A,31,6502.97
+3,Sants-Montjuïc,Menys de 10 m2,..,A,32,1404.64
+3,Sants-Montjuïc,Entre 10 i 20 m2,196,B,33,230325.67
+3,Sants-Montjuïc,Entre 21 i 50 m2,83,B,34,173452.59
+3,Sants-Montjuïc,Menys de 10 m2,14,B,35,19545.09
+3,Sants-Montjuïc,Més de 50 m2,7,B,36,28030.44
+3,Sants-Montjuïc,Entre 10 i 20 m2,628,C,37,413627.34
+3,Sants-Montjuïc,Entre 21 i 50 m2,172,C,38,226463.77
+3,Sants-Montjuïc,Menys de 10 m2,71,C,39,30614.05
+3,Sants-Montjuïc,Més de 50 m2,10,C,40,30089.31
+3,Sants-Montjuïc,Entre 10 i 20 m2,224,D,41,106439.66
+3,Sants-Montjuïc,Entre 21 i 50 m2,58,D,42,57409.7
+3,Sants-Montjuïc,Menys de 10 m2,30,D,43,8989.68
+3,Sants-Montjuïc,Més de 50 m2,..,D,44,4916.25
+3,Sants-Montjuïc,Entre 10 i 20 m2,133,E,45,50287.6
+3,Sants-Montjuïc,Entre 21 i 50 m2,20,E,46,14574.69
+3,Sants-Montjuïc,Menys de 10 m2,9,E,47,2078.88
+3,Sants-Montjuïc,Més de 50 m2,..,E,48,1779.21
+3,Sants-Montjuïc,Entre 10 i 20 m2,..,F,49,2060.13
+3,Sants-Montjuïc,Entre 21 i 50 m2,8,F,50,6555
+3,Sants-Montjuïc,Entre 10 i 20 m2,..,I,51,884.41
+3,Sants-Montjuïc,Entre 21 i 50 m2,25,I,52,20663.86
+3,Sants-Montjuïc,Més de 50 m2,..,I,53,6013.95
+4,Les Corts,Entre 10 i 20 m2,51,A,54,94360.79
+4,Les Corts,Entre 21 i 50 m2,43,A,55,195037.34
+4,Les Corts,Menys de 10 m2,8,A,56,7335.34
+4,Les Corts,Més de 50 m2,6,A,57,50671.18
+4,Les Corts,Entre 10 i 20 m2,346,B,58,415805.45
+4,Les Corts,Entre 21 i 50 m2,138,B,59,306766.77
+4,Les Corts,Menys de 10 m2,24,B,60,18212.28
+4,Les Corts,Més de 50 m2,7,B,61,35506.26
+4,Les Corts,Entre 10 i 20 m2,486,C,62,320700.69
+4,Les Corts,Entre 21 i 50 m2,135,C,63,177595.42
+4,Les Corts,Menys de 10 m2,63,C,64,25758.7
+4,Les Corts,Més de 50 m2,..,C,65,10815.76
+5,Sarrià -Sant Gervasi,Entre 10 i 20 m2,72,A,66,134866.51
+5,Sarrià -Sant Gervasi,Entre 21 i 50 m2,47,A,67,157892.29
+5,Sarrià -Sant Gervasi,Menys de 10 m2,7,A,68,8279.98
+5,Sarrià -Sant Gervasi,Més de 50 m2,..,A,69,23696.85
+5,Sarrià -Sant Gervasi,Entre 10 i 20 m2,857,B,70,1015425.92
+5,Sarrià -Sant Gervasi,Entre 21 i 50 m2,245,B,71,560396.36
+5,Sarrià -Sant Gervasi,Menys de 10 m2,90,B,72,64847.02
+5,Sarrià -Sant Gervasi,Més de 50 m2,6,B,73,27159.56
+5,Sarrià -Sant Gervasi,Entre 10 i 20 m2,1479,C,74,983694.4
+5,Sarrià -Sant Gervasi,Entre 21 i 50 m2,348,C,75,455968.88
+5,Sarrià -Sant Gervasi,Menys de 10 m2,152,C,76,59817.51
+5,Sarrià -Sant Gervasi,Més de 50 m2,17,C,77,53459.73
+5,Sarrià -Sant Gervasi,Entre 10 i 20 m2,84,D,78,23983.56
+5,Sarrià -Sant Gervasi,Entre 21 i 50 m2,13,D,79,10114.61
+5,Sarrià -Sant Gervasi,Menys de 10 m2,37,D,80,5546.91
+5,Sarrià -Sant Gervasi,Més de 50 m2,..,D,81,2217.52
+6,Gràcia,Entre 10 i 20 m2,..,A,82,9572.38
+6,Gràcia,Entre 21 i 50 m2,..,A,83,2002.92
+6,Gràcia,Menys de 10 m2,..,A,84,1404.64
+6,Gràcia,Entre 10 i 20 m2,175,B,85,202062.36
+6,Gràcia,Entre 21 i 50 m2,45,B,86,99829.55
+6,Gràcia,Menys de 10 m2,15,B,87,11546.21
+6,Gràcia,Entre 10 i 20 m2,697,C,88,461209.05
+6,Gràcia,Entre 21 i 50 m2,151,C,89,190860.27
+6,Gràcia,Menys de 10 m2,107,C,90,43129.84
+6,Gràcia,Més de 50 m2,6,C,91,14921.73
+6,Gràcia,Entre 10 i 20 m2,376,D,92,174809.89
+6,Gràcia,Entre 21 i 50 m2,42,D,93,40475.88
+6,Gràcia,Menys de 10 m2,96,D,94,27761.04
+6,Gràcia,Més de 50 m2,..,D,95,6449.66
+6,Gràcia,Entre 10 i 20 m2,6,E,96,2294.24
+6,Gràcia,Menys de 10 m2,..,E,97,505.67
+7,Horta-Guinardó,Entre 10 i 20 m2,55,B,98,68020.83
+7,Horta-Guinardó,Entre 21 i 50 m2,14,B,99,29271.76
+7,Horta-Guinardó,Menys de 10 m2,9,B,100,6648.67
+7,Horta-Guinardó,Més de 50 m2,..,B,101,2653.21
+7,Horta-Guinardó,Entre 10 i 20 m2,848,C,102,542455.22
+7,Horta-Guinardó,Entre 21 i 50 m2,120,C,103,155317.5
+7,Horta-Guinardó,Menys de 10 m2,214,C,104,87299.45
+7,Horta-Guinardó,Més de 50 m2,6,C,105,17261.52
+7,Horta-Guinardó,Entre 10 i 20 m2,372,D,106,170153.63
+7,Horta-Guinardó,Entre 21 i 50 m2,33,D,107,32137.77
+7,Horta-Guinardó,Menys de 10 m2,138,D,108,38955.21
+7,Horta-Guinardó,Més de 50 m2,..,D,109,6086.79
+7,Horta-Guinardó,Entre 10 i 20 m2,573,E,110,214537.49
+7,Horta-Guinardó,Entre 21 i 50 m2,69,E,111,51609.78
+7,Horta-Guinardó,Menys de 10 m2,158,E,112,39098.18
+7,Horta-Guinardó,Més de 50 m2,..,E,113,3371.14
+8,Nou Barris,Entre 10 i 20 m2,..,A,114,5618.58
+8,Nou Barris,Entre 10 i 20 m2,24,B,115,28623.43
+8,Nou Barris,Entre 21 i 50 m2,11,B,116,22970.61
+8,Nou Barris,Menys de 10 m2,..,B,117,842.79
+8,Nou Barris,Entre 10 i 20 m2,340,C,118,218961.96
+8,Nou Barris,Entre 21 i 50 m2,52,C,119,67729.76
+8,Nou Barris,Menys de 10 m2,46,C,120,18909.77
+8,Nou Barris,Més de 50 m2,..,C,121,10961.43
+8,Nou Barris,Entre 10 i 20 m2,403,D,122,189488.19
+8,Nou Barris,Entre 21 i 50 m2,59,D,123,55487.81
+8,Nou Barris,Menys de 10 m2,38,D,124,10952.27
+8,Nou Barris,Més de 50 m2,..,D,125,2458.13
+8,Nou Barris,Entre 10 i 20 m2,..,E,126,468.22
+8,Nou Barris,Entre 10 i 20 m2,187,F,127,66082.49
+8,Nou Barris,Entre 21 i 50 m2,20,F,128,16160.71
+8,Nou Barris,Menys de 10 m2,29,F,129,6639.3
+9,Sant Andreu,Entre 10 i 20 m2,..,A,130,5150.89
+9,Sant Andreu,Entre 21 i 50 m2,11,A,131,41737.05
+9,Sant Andreu,Menys de 10 m2,..,A,132,9884.53
+9,Sant Andreu,Més de 50 m2,..,A,133,20393.33
+9,Sant Andreu,Entre 10 i 20 m2,129,B,134,150405.62
+9,Sant Andreu,Entre 21 i 50 m2,18,B,135,40172.77
+9,Sant Andreu,Menys de 10 m2,7,B,136,5318.94
+9,Sant Andreu,Més de 50 m2,..,B,137,2653.21
+9,Sant Andreu,Entre 10 i 20 m2,853,C,138,545634
+9,Sant Andreu,Entre 21 i 50 m2,143,C,139,184479.84
+9,Sant Andreu,Menys de 10 m2,240,C,140,99822.17
+9,Sant Andreu,Més de 50 m2,6,C,141,20074.71
+9,Sant Andreu,Entre 10 i 20 m2,134,D,142,60731.88
+9,Sant Andreu,Entre 21 i 50 m2,112,D,143,110940.96
+9,Sant Andreu,Menys de 10 m2,..,D,144,3458.28
+9,Sant Andreu,Més de 50 m2,18,D,145,38874.8
+9,Sant Andreu,Entre 10 i 20 m2,97,E,146,35440.52
+9,Sant Andreu,Entre 21 i 50 m2,19,E,147,14233.74
+9,Sant Andreu,Menys de 10 m2,30,E,148,7251.11
+9,Sant Andreu,Més de 50 m2,..,E,149,1300.6
+9,Sant Andreu,Entre 10 i 20 m2,79,F,150,30033.18
+9,Sant Andreu,Entre 21 i 50 m2,30,F,151,23178.7
+9,Sant Andreu,Menys de 10 m2,29,F,152,10216.49
+9,Sant Andreu,Més de 50 m2,..,F,153,7106.45
+10,Sant Martí,Entre 10 i 20 m2,..,A,154,5202.39
+10,Sant Martí,Entre 21 i 50 m2,..,A,155,9364.29
+10,Sant Martí,Menys de 10 m2,..,A,156,17792.14
+10,Sant Martí,Més de 50 m2,..,A,157,13578.22
+10,Sant Martí,Entre 10 i 20 m2,269,B,158,310662.85
+10,Sant Martí,Entre 21 i 50 m2,104,B,159,230636.12
+10,Sant Martí,Menys de 10 m2,34,B,160,24278.7
+10,Sant Martí,Més de 50 m2,18,B,161,91114.52
+10,Sant Martí,Entre 10 i 20 m2,692,C,162,460614.8
+10,Sant Martí,Entre 21 i 50 m2,333,C,163,436433.76
+10,Sant Martí,Menys de 10 m2,98,C,164,48348.68
+10,Sant Martí,Més de 50 m2,28,C,165,93772.99
+10,Sant Martí,Entre 10 i 20 m2,249,D,166,116033.88
+10,Sant Martí,Entre 21 i 50 m2,72,D,167,66226.43
+10,Sant Martí,Menys de 10 m2,52,D,168,15503.26
+10,Sant Martí,Més de 50 m2,..,D,169,8846.65
+10,Sant Martí,Entre 10 i 20 m2,35,F,170,15830.79
+10,Sant Martí,Entre 21 i 50 m2,37,F,171,28940.87
+10,Sant Martí,Menys de 10 m2,19,F,172,4903.79
+10,Sant Martí,Més de 50 m2,..,F,173,5857.87
